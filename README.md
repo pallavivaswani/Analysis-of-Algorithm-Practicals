@@ -19,7 +19,7 @@ Contents:
 * [Min - Max](https://github.com/pallavivaswani/Analysis-of-Algorithm-Practicals/blob/master/minmax.c)
 * [Knuth–Morris–Pratt (KMP) Patterm Searching](https://github.com/pallavivaswani/Analysis-of-Algorithm-Practicals/blob/master/KMP.c)
 * [Rabin Karp Pattern Searching](https://github.com/pallavivaswani/Analysis-of-Algorithm-Practicals/blob/master/rabinkarp.c)
-* [Omptimal Storage](https://github.com/pallavivaswani/Analysis-of-Algorithm-Practicals/blob/master/optimalstorage.c)
+* [Optimal Storage](https://github.com/pallavivaswani/Analysis-of-Algorithm-Practicals/blob/master/optimalstorage.c)
 
 
 ##### Please do ⭐ the repository, if it helped you in anyway.
